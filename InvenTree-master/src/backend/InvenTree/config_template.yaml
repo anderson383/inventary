@@ -40,7 +40,7 @@ log_level: WARNING
 db_logging: False
 
 # Select default system language , or use the environment variable INVENTREE_LANGUAGE
-language: en-us
+language: es
 
 # System time-zone (default is UTC). Reference: https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 timezone: UTC
